@@ -471,6 +471,8 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 
+<h3 id="setup-instructions">Coding environment setup instructions</h3>
+
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
 {% elsif site.carpentry == "dc" %}
